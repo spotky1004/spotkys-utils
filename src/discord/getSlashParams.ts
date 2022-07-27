@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import type Discord from "discord.js";
 
 const paramGetFunctions = {

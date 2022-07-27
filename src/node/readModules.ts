@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 /**
  * Read all modules 
  */
